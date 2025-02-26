@@ -26,9 +26,9 @@
             </a>
           </li>
           <li>
-            <a href="./map.html">
+            <a href="/login">
               <i class="now-ui-icons location_map-big"></i>
-              <p>Maps</p>
+              <p>Login</p>
             </a>
           </li>
           <li>
