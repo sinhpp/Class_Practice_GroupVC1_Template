@@ -13,7 +13,7 @@
       </div>
       <div class="sidebar-wrapper" id="sidebar-wrapper">
         <ul class="nav">
-          <li class="active ">
+          <li>
             <a href="./dashboard.html">
               <i class="now-ui-icons design_app"></i>
               <p>Dashboard</p>
@@ -43,8 +43,8 @@
               <p>User Profile</p>
             </a>
           </li>
-          <li>
-            <a href="./tables.html">
+          <li class="active ">
+            <a href="/table-list">
               <i class="now-ui-icons design_bullet-list-67"></i>
               <p>Table List</p>
             </a>
