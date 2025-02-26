@@ -32,7 +32,7 @@
             </a>
           </li>
           <li>
-            <a href="./notifications.html">
+            <a href="/notifications">
               <i class="now-ui-icons ui-1_bell-53"></i>
               <p>Notifications</p>
             </a>
