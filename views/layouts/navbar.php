@@ -50,7 +50,7 @@
             </a>
           </li>
           <li>
-            <a href="./typography.html">
+            <a href="/pytography">
               <i class="now-ui-icons text_caps-small"></i>
               <p>Typography</p>
             </a>
