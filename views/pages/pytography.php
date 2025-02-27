@@ -22,7 +22,7 @@
                   <h4><span>Header 4</span>The Life of Now Ui Dashboard </h4>
                 </div>
                 <div class="typography-line">
-                  <h5><span>Header 5</span>The Life of Now Ui Dashboard </h5>
+                  <h5><span>Headers 5</span>The Life of Now Ui Dashboard </h5>
                 </div>
                 <div class="typography-line">
                   <h6><span>Header 6</span>The Life of Now Ui Dashboard </h6>
@@ -88,3 +88,5 @@
           </div>
         </div>
       </div>
+
+      
